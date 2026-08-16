@@ -38,16 +38,14 @@ The tool checks basic file details, timestamps, hidden files, suspicious extensi
 ---
 
 ## 🚀 How To Run
-1️⃣ Clone the Repository
+- ** 1️⃣ Clone the Repository
 git clone YOUR_GITHUB_REPOSITORY_URL
-2️⃣ Install Required Libraries
+- ** 2️⃣ Install Required Libraries
 pip install Pillow PyPDF2
-3️⃣ Run the Project
+- ** 3️⃣ Run the Project
 python dft_kit.py
-4️⃣ Enter File Path
-
+- ** 4️⃣ Enter File Path
 The program will ask for the file path:
-
 Enter File Path:
 
 Enter the path of the file you want to analyze. 🔎
