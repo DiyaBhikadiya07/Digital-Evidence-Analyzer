@@ -38,12 +38,8 @@ The tool checks basic file details, timestamps, hidden files, suspicious extensi
 ---
 
 ## 🚀 How To Run
-
-### 1️⃣ Clone the Repository
-
-```bash
+1️⃣ Clone the Repository
 git clone YOUR_GITHUB_REPOSITORY_URL
-
 2️⃣ Install Required Libraries
 pip install Pillow PyPDF2
 3️⃣ Run the Project
